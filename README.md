@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShriHarshit-Tiwari
+- 👋 Hi, I’m @ShriHarshit-Tiwari (Harshit Tiwari)
 - 👀 I’m interested in Reading & Problrm Solving
 - 🌱 I’m currently learning C++, DSA
 - 📫 How to reach me just drop message on my linkedln account.
